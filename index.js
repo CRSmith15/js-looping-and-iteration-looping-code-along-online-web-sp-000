@@ -9,3 +9,12 @@ function writeCards(person, occasion) {
   return cards
 
 }
+
+
+function countDown(num) {
+  let count = 0
+  while (count < num) {
+    let total = num - count
+  }
+  return total
+}
