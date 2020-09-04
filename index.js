@@ -14,7 +14,7 @@ function writeCards(person, occasion) {
 function countDown(num) {
   let count = 0
   while (count < num) {
-    let total = num - count
+    console.log(num - count)
   }
-  return total
+  
 }
