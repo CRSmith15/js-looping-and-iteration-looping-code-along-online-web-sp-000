@@ -16,5 +16,5 @@ function countDown(num) {
   while (count < num) {
     console.log(num - count)
   }
-  
+
 }
