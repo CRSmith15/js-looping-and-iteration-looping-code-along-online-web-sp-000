@@ -1,5 +1,5 @@
 // Code your solutions in this file
-let thanks = []
+var thanks = []
 
 function writeCards(person, occasion) {
   for (let i = 0; i < person.length; i++) {
